@@ -1,0 +1,10 @@
+[
+    {
+        "nombre" : "Anabel"
+        "apellidos" : "Calderon"
+        "edad" : 20,
+        "notas" [9, 10, 11, 9]
+        "faltas" : 0,
+        "supera" true 
+    }
+]
